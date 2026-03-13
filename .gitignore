@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Modèles ML
+*.pt
+*.pth
+*.bin
+*.h5
+*.onnx
+*.safetensors
+
+# App Gradio (déjà sur GitHub séparément)
+2_IMMAT_PLAQUES/APPLI_ALPR_Engine/
+
+# Données volumineuses
+*.mp4
+*.avi
+*.webm
+datasets/
+2_IMMAT_PLAQUES/MODEL_YOLO8-n_&_OCR/ROBOFLOW_universe/
+~$*
