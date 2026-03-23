@@ -1,9 +1,0 @@
-gradio>=4.0.0
-ultralytics>=8.0.0
-fast-plate-ocr
-opencv-python
-pillow
-numpy
-torch
-onnxruntime
-pandas
